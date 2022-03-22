@@ -39,4 +39,4 @@ using SafeTestsets
 
 After which, you can write tests with the same syntax as in two chunks upstream and run them as in the second-to-last chunk, with the `@safetestset` being defined in `runtests.jl` and all other `@testset` in as many files as you like. Also, don't forget to add `SageTestSets.jl` to your extras and targets in the `Project.toml`.
 
-Learn more about unit testing and macros at [Test](https://docs.julialang.org/en/v1/stdlib/Test/) and [JuliaLang](https://discourse.julialang.org/t/best-practices-for-julia-unit-testing/30858).
+Learn more about unit testing and macros at [Test.jl](https://docs.julialang.org/en/v1/stdlib/Test/) and [JuliaLang](https://discourse.julialang.org/t/best-practices-for-julia-unit-testing/30858).

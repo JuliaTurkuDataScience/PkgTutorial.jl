@@ -27,7 +27,7 @@ makedocs(format = Documenter.HTML(),
          sitename = "PkgTutorial.jl",
          pages=[
             "Home" => "index.md",
-            "First steps" => Any[
+            "First Steps" => Any[
                 "Basics" => "01_basics.md",
                 "Package Template" => "02_pkg_template.md",
                 "Dependency Management" => "03_manage_deps.md",
@@ -38,11 +38,11 @@ makedocs(format = Documenter.HTML(),
                 "Code Coverage" => "06_code_cov.md"
             ],
             "Documentation" => Any[
-               "Docs Generation" => "07_write_docs.md",
-               "Docs Deployment" => "08_host_docs.md"
+               "Local Generation" => "07_write_docs.md",
+               "Publishing Online" => "08_host_docs.md"
             ],
             "Registration" => "09_pkg_reg.md",
-            "Next steps" => "10_sources.md"
+            "Next Steps" => "10_sources.md"
         ]
 )
 

@@ -1,4 +1,4 @@
-## Develop new features
+# Develop new features
 
 From now on, I suggest that you follow these steps every time you enter Julia and want to further build your package, here named "ProjectName":
 

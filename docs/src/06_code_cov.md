@@ -62,4 +62,4 @@ jobs:
 
 The last line up here will look for a secret token stored in your repository to connect and upload the code coverage reports to Codecov, so go to your [Codecov](https://about.codecov.io/) account, enable access to your repository and store the secret token provided by Codecov in the settings of your repo. After a couple of commits, you should start to see percent coverage and other statistics on the Codecov page of your repo and can also add the Codecov badge to its README.
 
-Learn more about code coverage at [this tutorial](https://github.com/codecov/example-julia) and at [Codecov Quick Start](https://docs.codecov.com/docs/quick-start).
+Learn more about code coverage at [this tutorial](https://github.com/codecov/example-julia) and [Codecov Quick Start](https://docs.codecov.com/docs/quick-start).
