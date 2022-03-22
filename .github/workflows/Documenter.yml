@@ -15,6 +15,14 @@ jobs:
         with:
           version: '1.7'
 
+      - name: Build package
+        run: |
+          julia --project=. -e '
+            import Pkg; Pkg.add("Documenter")
+            using Pkg
+            Pkg.develop(PackageSpec(path=pwd()))
+            Pkg.instantiate()'
+
       - name: Deploy documentation
         run: julia --project=. make.jl
         env:
