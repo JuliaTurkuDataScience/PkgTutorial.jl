@@ -3,9 +3,9 @@
 
 # How to develop packages in Julia
 
-For the complete guide to package development, click on the [docs badge](https://juliaturkudatascience.github.io/PkgTutorial.jl/dev/). For a fasttrack to get started, click on the [jupyter notebook](https://juliaturkudatascience.github.io/PkgTutorial.jl/dev/).
+For the complete guide to package development, click on the [docs badge](https://juliaturkudatascience.github.io/PkgTutorial.jl/dev/). For a fast track to get started, click on the [jupyter notebook](https://juliaturkudatascience.github.io/PkgTutorial.jl/dev/).
 
-## Useful Links
+## Contents and Useful Links
 
 - [**Chapter 1: Basics**](https://juliaturkudatascience.github.io/PkgTutorial.jl/dev/01_basics/): learn more about modules at [JuliaLang](https://docs.julialang.org/en/v1/manual/modules/) and [JuliaNotes.jl](https://m3g.github.io/JuliaNotes.jl/stable/modules/).
 
